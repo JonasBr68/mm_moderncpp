@@ -8,3 +8,8 @@
 *.tlog
 /ModernCPP/Debug
 *.opendb
+ModernCPP/ModernCPP.exe
+ModernCPP/ModernCPP.ilk
+ModernCPP/ModernCPP.obj
+ModernCPP/ModernCPP.pdb
+ModernCPP/vc140.pdb
